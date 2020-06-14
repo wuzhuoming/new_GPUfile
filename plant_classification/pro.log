@@ -1,0 +1,146 @@
+Multi-objective Optimisation with mobo(ucb-ts) using capital 36000.0 (realtime)
+Epoch 1/6
+563/563 - 657s - loss: 3.1672 - accuracy: 0.1282
+Epoch 2/6
+563/563 - 666s - loss: 2.6247 - accuracy: 0.2092
+Epoch 3/6
+563/563 - 647s - loss: 2.4044 - accuracy: 0.2639
+Epoch 4/6
+563/563 - 657s - loss: 2.2177 - accuracy: 0.3370
+Epoch 5/6
+563/563 - 654s - loss: 2.0650 - accuracy: 0.3818
+Epoch 6/6
+563/563 - 655s - loss: 1.9700 - accuracy: 0.4183
+Final accuracy: 0.41825854778289795
+Capital spent on initialisation: 3972.4435(0.1103).
+Legend: <iteration_number> (<num_successful_queries>, <fraction_of_capital_spent>):: #Pareto=<num_pareto_optimal_points_found>, acqs=<num_times_each_acquisition_was_used>
+Epoch 1/8
+282/282 - 638s - loss: 2.1344 - accuracy: 0.3709
+Epoch 2/8
+282/282 - 646s - loss: 1.1956 - accuracy: 0.6470
+Epoch 3/8
+282/282 - 647s - loss: 0.8929 - accuracy: 0.7297
+Epoch 4/8
+282/282 - 652s - loss: 0.6854 - accuracy: 0.7919
+Epoch 5/8
+282/282 - 640s - loss: 0.5469 - accuracy: 0.8421
+Epoch 6/8
+282/282 - 646s - loss: 0.4417 - accuracy: 0.8636
+Epoch 7/8
+282/282 - 637s - loss: 0.3775 - accuracy: 0.8938
+Epoch 8/8
+282/282 - 644s - loss: 0.3224 - accuracy: 0.9020
+Final accuracy: 0.9020435214042664
+Epoch 1/10
+563/563 - 644s - loss: 1.4413 - accuracy: 0.5460
+Epoch 2/10
+563/563 - 649s - loss: 0.7944 - accuracy: 0.7403
+Epoch 3/10
+563/563 - 654s - loss: 0.6041 - accuracy: 0.8034
+Epoch 4/10
+563/563 - 653s - loss: 0.4667 - accuracy: 0.8476
+Epoch 5/10
+563/563 - 647s - loss: 0.3777 - accuracy: 0.8756
+Epoch 6/10
+563/563 - 649s - loss: 0.3223 - accuracy: 0.8861
+Epoch 7/10
+563/563 - 649s - loss: 0.2680 - accuracy: 0.9116
+Epoch 8/10
+563/563 - 653s - loss: 0.2391 - accuracy: 0.9180
+Epoch 9/10
+563/563 - 653s - loss: 0.2060 - accuracy: 0.9278
+Epoch 10/10
+563/563 - 652s - loss: 0.1654 - accuracy: 0.9414
+Final accuracy: 0.9413594007492065
+Epoch 1/6
+376/376 - 639s - loss: 1.7938 - accuracy: 0.4591
+Epoch 2/6
+376/376 - 639s - loss: 0.9085 - accuracy: 0.7048
+Epoch 3/6
+376/376 - 638s - loss: 0.6605 - accuracy: 0.7810
+Epoch 4/6
+376/376 - 653s - loss: 0.5310 - accuracy: 0.8270
+Epoch 5/6
+376/376 - 643s - loss: 0.4346 - accuracy: 0.8627
+Epoch 6/6
+376/376 - 654s - loss: 0.3849 - accuracy: 0.8725
+Final accuracy: 0.8725011348724365
+Epoch 1/6
+376/376 - 647s - loss: 2.3596 - accuracy: 0.3028
+Epoch 2/6
+376/376 - 654s - loss: 1.5024 - accuracy: 0.5646
+Epoch 3/6
+376/376 - 657s - loss: 1.1377 - accuracy: 0.6664
+Epoch 4/6
+376/376 - 657s - loss: 0.9090 - accuracy: 0.7379
+Epoch 5/6
+376/376 - 651s - loss: 0.7459 - accuracy: 0.7805
+Epoch 6/6
+376/376 - 658s - loss: 0.6422 - accuracy: 0.8170
+Final accuracy: 0.8169702291488647
+Epoch 1/4
+563/563 - 653s - loss: 2.5097 - accuracy: 0.2448
+Epoch 2/4
+563/563 - 656s - loss: 1.8674 - accuracy: 0.4447
+Epoch 3/4
+563/563 - 659s - loss: 1.4697 - accuracy: 0.5655
+Epoch 4/4
+563/563 - 656s - loss: 1.2242 - accuracy: 0.6442
+Final accuracy: 0.644158124923706
+Epoch 1/4
+2251/2251 - 700s - loss: 3.2158 - accuracy: 0.0875
+Epoch 2/4
+2251/2251 - 697s - loss: 2.8511 - accuracy: 0.1144
+Epoch 3/4
+2251/2251 - 698s - loss: 2.6717 - accuracy: 0.1495
+Epoch 4/4
+2251/2251 - 702s - loss: 2.4357 - accuracy: 0.2335
+Final accuracy: 0.23345179855823517
+Epoch 1/7
+322/322 - 645s - loss: 2.0871 - accuracy: 0.3836
+Epoch 2/7
+322/322 - 656s - loss: 1.1981 - accuracy: 0.6433
+Epoch 3/7
+322/322 - 654s - loss: 0.8552 - accuracy: 0.7417
+Epoch 4/7
+322/322 - 651s - loss: 0.6616 - accuracy: 0.7948
+Epoch 5/7
+322/322 - 651s - loss: 0.5348 - accuracy: 0.8392
+Epoch 6/7
+322/322 - 651s - loss: 0.4389 - accuracy: 0.8694
+Epoch 7/7
+322/322 - 655s - loss: 0.3781 - accuracy: 0.8872
+Final accuracy: 0.8871612548828125
+Epoch 1/8
+1126/1126 - 674s - loss: 2.0802 - accuracy: 0.3701
+Epoch 2/8
+1126/1126 - 673s - loss: 1.3315 - accuracy: 0.6028
+Epoch 3/8
+1126/1126 - 674s - loss: 0.9673 - accuracy: 0.7081
+Epoch 4/8
+1126/1126 - 674s - loss: 0.7616 - accuracy: 0.7741
+Epoch 5/8
+1126/1126 - 673s - loss: 0.6440 - accuracy: 0.8036
+Epoch 6/8
+1126/1126 - 672s - loss: 0.5725 - accuracy: 0.8290
+Epoch 7/8
+1126/1126 - 669s - loss: 0.4901 - accuracy: 0.8512
+Epoch 8/8
+1126/1126 - 675s - loss: 0.4351 - accuracy: 0.8705
+Final accuracy: 0.8705019950866699
+Epoch 1/7
+322/322 - 642s - loss: 2.2639 - accuracy: 0.3394
+Epoch 2/7
+322/322 - 646s - loss: 1.3333 - accuracy: 0.5742
+Epoch 3/7
+322/322 - 644s - loss: 0.9819 - accuracy: 0.6999
+Epoch 4/7
+322/322 - 646s - loss: 0.7287 - accuracy: 0.7659
+Epoch 5/7
+322/322 - 639s - loss: 0.6249 - accuracy: 0.8023
+Epoch 6/7
+322/322 - 643s - loss: 0.5255 - accuracy: 0.8345
+Epoch 7/7
+322/322 - 640s - loss: 0.4348 - accuracy: 0.8598
+Final accuracy: 0.8598400950431824
+#011 (010, 1.214):: #Pareto: 5, acqs=[ucb:5, ts:4], 
